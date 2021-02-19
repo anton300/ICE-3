@@ -1,6 +1,7 @@
 package com.java;
 
 import java.util.Scanner;
+import com.java.BadChangeException;
 
 /**
  * @author Anthony Zenin - ID: 991508379
